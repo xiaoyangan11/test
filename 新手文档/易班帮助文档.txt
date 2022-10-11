@@ -1,0 +1,90 @@
+禅道：http://pms.fzhxkj.com
+帐号：姓名全拼
+密码：123456
+
+项目管理：https://www.kdocs.cn/l/s3zunMQUk 
+项目负责人：https://www.kdocs.cn/l/cbxS0Fj2IK2c
+接口文档：http://192.168.0.13:3000/login
+
+测试环境帐号密码：
+	易班体验大学
+	后台网址：https://u.uyiban.com/
+	后台帐号密码：18059039677 	Aa123456
+
+	易班大学
+	后台网址：https://u.uyiban.com/
+	测试环境后台帐号密码：18120935250	Aa888888  
+	测试环境【学生端】【政工端】帐号密码：
+		学生端帐号密码 ：
+			15715931847  a888888
+			15980226212 a888888
+		政工端帐号密码：
+			13141316507  zhima6688
+	
+	
+	120易班大学后台帐号密码：
+		帐号：15357318927 		7890Uiop
+	120易班大学【学生端】【政工端】号密码：
+		政工帐号密码：13950431065     a888888
+		学生帐号密码：18859680619     a888888
+	
+
+	易班大学公共管理
+	网址：http://mp.yiban.cn/app/login/
+	帐号密码：school_jhun@yiban.cn	yiban.cn
+		
+
+	控制台
+	网址：https://ops.uyiban.com/#/login
+	帐号密码：13800000000	F12获取
+	
+	wap登录连接：
+	https://oauth.yiban.cn/code/html?client_id=95626fa3080300ea&redirect_uri=https://f.yiban.cn/iapp7463
+	https://c.uyiban.com/#/     
+
+
+	移动端
+	易班体验大学帐号/密码：13015786516/a888888
+	学号2017120102
+	政工帐号密码：13559433116/a888888
+	预上线易班大学帐号/密码：18860181288/1Qazse4
+	
+	
+	思政云平台
+	网址：https://www.dingyuenet.cn
+	帐号密码：18860181288	cxh7262963
+	
+	
+	贵州大学地址
+	https://rs.gzgxsz.cn
+	帐号密码：18011111111	密码Aa123456
+
+
+
+
+阿里云测试
+https://signin.aliyun.com/1358976090726449.onaliyun.com/login.htm?callback=https%3A%2F%2Femas.console.aliyun.com%2Fservice%2FdevTool%2Fmqc%2Ftestproductremotedebug%3FProductId%3D3713656%26AppKey%3D28251203%26osType%3D2%26newtask%3D0&accounttraceid=43c520c54e864dfcaad2cee32c64fd7fszbn&cspNonce=X9HeuBVn0O&oauth_callback=https%3A%2F%2Femas.console.aliyun.com%2Fservice%2FdevTool%2Fmqc%2Ftestproductremotedebug%3FProductId%3D3713656%26AppKey%3D28251203%26osType%3D2%26newtask%3D0&spma=a2c44&spmb=11131515#/main
+用户登录名称 xiaoyangan@1358976090726449.onaliyun.com
+登录密码 !zcRvH@?hdHWGYL6ckgn4@HWwF0U3Eon
+
+
+数据库地址：192.168.0.14
+端口：		3306
+帐号：		root
+密码：		1qazse4
+
+
+问提反馈
+	网址连接：	https://www.wenjuan.com/
+	帐号密码：	18120935250		Aa888888/*-
+
+线上客服
+	QQ客服帐号密码：	3025691806  1652180490  
+	电话客服帐号密码:	15060038441  13489029119
+	微信帐号密码：		3025691806	zhima6688
+
+
+
+
+
+
